@@ -38,4 +38,4 @@ There isn't much here. Just a shell script that extracts a Youtube video's audio
 
 A demo can be found here
 
-[![Audiyou demo](https://github.com/sureshaks/audiyou/img/screen.png)(https://youtu.be/tedMCjLrz-E)
+[![Audiyou demo](https://github.com/sureshaks/audiyou/img/screen.png)(https://www.youtube.com/watch?v=tedMCjLrz-E)
