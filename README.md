@@ -33,3 +33,9 @@ There isn't much here. Just a shell script that extracts a Youtube video's audio
 	- Clone the repo
 
 	- Run the script
+
+## Demo
+
+A demo can be found here
+
+[![Audiyou demo](https://github.com/sureshaks/audiyou/img/screen.png)(https://youtu.be/tedMCjLrz-E)
